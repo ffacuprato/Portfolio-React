@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ffacuprato/Portfolio-React/static/css/main.f855e6bc.css",
+    "main.js": "/ffacuprato/Portfolio-React/static/js/main.62f612bd.js",
+    "static/js/787.2c1cee2b.chunk.js": "/ffacuprato/Portfolio-React/static/js/787.2c1cee2b.chunk.js",
+    "static/media/logo.svg": "/ffacuprato/Portfolio-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ffacuprato/Portfolio-React/index.html",
+    "main.f855e6bc.css.map": "/ffacuprato/Portfolio-React/static/css/main.f855e6bc.css.map",
+    "main.62f612bd.js.map": "/ffacuprato/Portfolio-React/static/js/main.62f612bd.js.map",
+    "787.2c1cee2b.chunk.js.map": "/ffacuprato/Portfolio-React/static/js/787.2c1cee2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.62f612bd.js"
+  ]
+}
