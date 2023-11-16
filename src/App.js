@@ -1,25 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Hero from './components/Hero';
+import styled from 'styled-components';
+import Experiencia from './components/Experiencia';
+import Formacion from './components/Formacion';
+import AboutMe from './components/SobreMi';
+
+const ContainerGral = styled.div`
+  background-color: #121216;
+  `
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Esta es mi aplicacion
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <>
+    <ContainerGral>
+      <Header />
+      <Hero />
+      <AboutMe />
+      <Experiencia />
+      <Formacion />
+    </ContainerGral>
+  </>
 }
-
 export default App;

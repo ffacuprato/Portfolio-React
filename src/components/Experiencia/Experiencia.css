@@ -1,0 +1,29 @@
+.custom-container.experiencia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.custom-column{
+    display: flex!important;
+    justify-content: center;
+}
+.custom-item{
+    background-color:#283460;
+    color:#FFF;
+}
+.custom-text{
+    font-size: .75rem;
+    color: #e2e2e2!important;
+    font-weight: 100;
+}
+.list-group-flush{
+    padding: 0 var(--bs-card-spacer-x);
+}
+.custom-card-link{
+    text-decoration: none;
+    color: #FFF;
+    transition: .5;
+}
+.custom-card-link:hover{
+    color: #e2e2e2;
+}

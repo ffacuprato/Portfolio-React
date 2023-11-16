@@ -1,0 +1,35 @@
+
+.custom-container.formacion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.custom-col{
+    display: flex!important;
+    justify-content: center;
+}
+.card-body{
+    flex: none!important;
+}
+.custom-card.formacion{
+    background-color: #283460;
+    color: #FFF;
+}
+.custom-item.formacion{
+    background-color: #283460!important;
+}
+.list-group-flush{
+    padding: 0 var(--bs-card-spacer-x);
+}
+.custom-text.experiencia{
+    font-size: .75rem;
+    color: #e2e2e2!important;
+    font-weight: 100;
+}
+.custom-text.institucion{
+    font-weight: 600;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+  
