@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.f855e6bc.css",
-    "main.js": "/Portfolio-React/static/js/main.fa840625.js",
+    "main.css": "/Portfolio-React/static/css/main.e5d8c0a6.css",
+    "main.js": "/Portfolio-React/static/js/main.6061116d.js",
     "static/js/787.2c1cee2b.chunk.js": "/Portfolio-React/static/js/787.2c1cee2b.chunk.js",
-    "static/media/logo.svg": "/Portfolio-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ImagenHero.png": "/Portfolio-React/static/media/ImagenHero.e646468b8a7f35b7d195.png",
+    "static/media/ImagenFacuFlix.png": "/Portfolio-React/static/media/ImagenFacuFlix.302abd9833810a11db9b.png",
+    "static/media/ImagenPortfolio.png": "/Portfolio-React/static/media/ImagenPortfolio.48174feefb63ac28aeb6.png",
+    "static/media/ImagenEncriptador.png": "/Portfolio-React/static/media/ImagenEncriptador.5d7ddfde65e7eb512f33.png",
+    "static/media/ImagenIngenieria.jpg": "/Portfolio-React/static/media/ImagenIngenieria.d9da9970334172128f19.jpg",
+    "static/media/ImagenDesarrollo.jpg": "/Portfolio-React/static/media/ImagenDesarrollo.9e2bbffee236ba4e9090.jpg",
+    "static/media/ImagenAnalisis.jpg": "/Portfolio-React/static/media/ImagenAnalisis.58a0213e02d5d1aa1119.jpg",
     "index.html": "/Portfolio-React/index.html",
-    "main.f855e6bc.css.map": "/Portfolio-React/static/css/main.f855e6bc.css.map",
-    "main.fa840625.js.map": "/Portfolio-React/static/js/main.fa840625.js.map",
+    "main.e5d8c0a6.css.map": "/Portfolio-React/static/css/main.e5d8c0a6.css.map",
+    "main.6061116d.js.map": "/Portfolio-React/static/js/main.6061116d.js.map",
     "787.2c1cee2b.chunk.js.map": "/Portfolio-React/static/js/787.2c1cee2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fa840625.js"
+    "static/css/main.e5d8c0a6.css",
+    "static/js/main.6061116d.js"
   ]
 }
