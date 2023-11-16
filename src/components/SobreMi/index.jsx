@@ -20,7 +20,7 @@ const AboutMe = () => {
                 Quien soy?
             </Titulo>
             <Texto>
-            ¡Hola! Soy un apasionado desarrollador frontend en constante búsqueda de la combinación perfecta entre creatividad y código. Con sólida formación en ingenieria, me sumerjo en el universo del desarrollo frontend, fusionando diseño elegante con eficiencia técnica.
+            Soy un apasionado desarrollador frontend en constante búsqueda de la combinación perfecta entre creatividad y código. Con sólida formación en ingenieria, me sumerjo en el universo del desarrollo frontend, fusionando diseño elegante con eficiencia técnica.
             Mi enfoque consiste en transformar ideas en realidades digitales. Si buscas a alguien con visión, energía y habilidades sólidas, ¡estás en el lugar correcto! Emocionado por nuevos proyectos y continuando mi travesía en el mundo del desarrollo frontend.
             </Texto>
             <Titulo>
