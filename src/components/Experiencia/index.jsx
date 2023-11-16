@@ -13,7 +13,7 @@ margin: 2rem 0 0 0;
 display: flex;
 align-self: center;
 color: #FFF;
-font-family: 'Roboto', sans-serif;
+font-family: 'Roboto';
 `
 function Tarjeta(imagen,titulo,descripcion,tecnologias,linkRepositorio,linkDemo) {
     return (

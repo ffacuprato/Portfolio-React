@@ -10,6 +10,7 @@ const AboutMe = () => {
         color: #e2e2e2;
         font-weight: 100;
         font-size: 1.25rem;
+        font-family: 'Roboto';
     `
 
     return <>
