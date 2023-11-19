@@ -11,5 +11,7 @@
     color: #FFF;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
-
+}
+.me-auto.navbar-nav{
+    gap: 2rem;
 }

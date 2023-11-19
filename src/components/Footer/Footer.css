@@ -1,0 +1,18 @@
+.custom-container.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #283460;
+    margin: 0;
+    padding: 1rem 0;
+    max-width: none!important;
+}
+.custom-container.footer.links{
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+}
+.contact-icon.footer{
+    width: 3rem;
+    height: 3rem;
+}

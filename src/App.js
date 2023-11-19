@@ -6,6 +6,7 @@ import styled from 'styled-components';
 import Experiencia from './components/Experiencia';
 import Formacion from './components/Formacion';
 import AboutMe from './components/SobreMi';
+import Footer from './components/Footer';
 
 const ContainerGral = styled.div`
   background-color: #121216;
@@ -19,6 +20,7 @@ function App() {
       <AboutMe />
       <Experiencia />
       <Formacion />
+      <Footer />
     </ContainerGral>
   </>
 }
