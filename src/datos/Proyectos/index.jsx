@@ -6,7 +6,7 @@ const Proyectos = {
   facuFlix: {
     titulo: 'FacuFlix',
     imagen: imagenFacuflix,
-    descripcion: 'Pagina web de servicio de streaming educativo en tecnologias de desarrollo web. Desarrollado completamente con React. Pagina web SPA responsiva y que interactua con formularios para poder cargar nuevos videos y crear nuevas categorias de videos y exhibirlos en la pagina web.',
+    descripcion: 'Pagina web de servicio de streaming educativo en tecnologias de desarrollo web. Desarrollado completamente con React. Pagina web SPA responsiva y que interactua con formularios para poder cargar nuevos videos y crear nuevas categorias de videos y exhibirlos en la pagina web. Tambien permite editar, o eliminar categorias extistentes.',
     tecnologias:['React.js','JavaScript','HTML5','CSS3','React Bootstrap','FramerMotion','MUI material'],
     linkRepositorio: 'https://github.com/ffacuprato/proyecto-facundoflix',
     linkDemo: 'https://ffacuprato.github.io/proyecto-facundoflix/',
@@ -22,7 +22,7 @@ const Proyectos = {
   encriptador: {
     titulo: 'Portfolio',
     imagen: imagenPortfolio,
-    descripcion: 'Este proyecto este mismo portfolio para presentar mis proyectos. Aplique conocimientos en DOM JavaScript, consumo de API y funciones async y await.',
+    descripcion: 'Este proyecto este mismo portfolio para presentar mis proyectos. Creado con React.js y React Bootstrap.',
     tecnologias:['HTML5','CSS3','JavaScript'],
     linkRepositorio: 'https://github.com/ffacuprato/PROYECTO-CHALLENGE',
     linkDemo: 'https://ffacuprato.github.io/PROYECTO-CHALLENGE/',
