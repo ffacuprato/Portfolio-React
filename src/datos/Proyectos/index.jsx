@@ -7,7 +7,7 @@ const Proyectos = {
     titulo: 'FacuFlix',
     imagen: imagenFacuflix,
     descripcion: 'Pagina web de servicio de streaming educativo en tecnologias de desarrollo web. Desarrollado completamente con React. Pagina web SPA responsiva y que interactua con formularios para poder cargar nuevos videos y crear nuevas categorias de videos y exhibirlos en la pagina web. Tambien permite editar, o eliminar categorias extistentes.',
-    tecnologias:['React.js','JavaScript','HTML5','CSS3','React Bootstrap','FramerMotion','MUI material'],
+    tecnologias:['React.js','JavaScript','React Hooks','HTML5','CSS3','React Bootstrap','FramerMotion','MUI material'],
     linkRepositorio: 'https://github.com/ffacuprato/proyecto-facundoflix',
     linkDemo: 'https://ffacuprato.github.io/proyecto-facundoflix/',
   },
